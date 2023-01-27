@@ -6,7 +6,7 @@ public class Principal {
 	System.out.println("Hola Alexis");
 	System.out.println("Hola Izei");
 	System.out.println("modificacion 3ª");
-	System.out.println("modificacion 4ª");
+		System.out.println("Mofificacion de izei");
 	}
 
 }
